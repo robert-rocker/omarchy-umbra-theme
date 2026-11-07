@@ -6,7 +6,7 @@
 ## Install
 
 ```sh
-omarchy theme install https://github.com/Robertcl795/omarchy-umbra-theme.git
+omarchy theme install https://github.com/robert-rocker/omarchy-umbra-theme.git
 omarchy theme set umbra
 ```
 
